@@ -1,0 +1,11 @@
+{
+  "name": "mouse-data",
+  "description": "Mouse Data",
+  "version": "0.1.0",
+  "author": "Ian Macalinao <me@ian.pw>",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "superagent": "^0.20.0"
+  }
+}
